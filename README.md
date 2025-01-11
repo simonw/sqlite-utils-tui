@@ -21,6 +21,8 @@ Once installed, run the following command to open a terminal UI for exploring th
 sqlite-utils tui
 ```
 
+![Screenshot of the TUI showing sqlite-utils options in an interactive terminal interface](https://raw.githubusercontent.com/simonw/sqlite-utils-tui/refs/heads/main/tui.png)
+
 ## Development
 
 To set up this plugin locally, first checkout the code. Then create a new virtual environment:
